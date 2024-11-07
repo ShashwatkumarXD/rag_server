@@ -41,6 +41,9 @@ Content-Type: multipart/form-data
 }
 
 ```
+<p align="center">
+  <img src="Ingest.png">
+</p>
 
 ### Response
 A success message indicating that the document has been ingested and stored:
@@ -74,6 +77,11 @@ Example request body in JSON format:
   "query": "What is the absence request letter format?"
 }
 ```
+
+<p align="center">
+  <img src="Query.png">
+</p>
+
 ### Response
 The response will return the content of the most relevant documents based on your query.
 
@@ -94,9 +102,6 @@ If there is an error while querying, the response will contain an error message:
 }
 ```
 
-<p align="center">
-  <img src="Ingest.png" width="350" height="200">
-</p>
 
 
 
