@@ -103,7 +103,9 @@ If there is an error while querying, the response will contain an error message:
 ```
 # Made by:-
 NAME: Shashwat Kumar
+
 SAP ID: 500094056
+
 COLLAGE: UPES
 
 
