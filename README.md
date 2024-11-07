@@ -94,6 +94,9 @@ If there is an error while querying, the response will contain an error message:
 }
 ```
 
+<p align="center">
+  <img src="Ingest.png" width="350" height="200">
+</p>
 
 
 
