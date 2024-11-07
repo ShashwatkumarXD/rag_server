@@ -101,6 +101,11 @@ If there is an error while querying, the response will contain an error message:
   "detail": "Query failed: <error details>"
 }
 ```
+# Made by:-
+NAME: Shashwat Kumar
+SAP ID: 500094056
+COLLAGE: UPES
+
 
 
 
